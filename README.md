@@ -1,5 +1,5 @@
 # ADFFusion
-Code of ADFFusion:A Method for Fusing Infrared and Visible Images Based on Attention-Guided and Dense Feature Interaction
+Code of ADFFusion: A Method for Fusing Infrared and Visible Images Focused on Object Saliency and Detail Preservation
 
 ## Tips:<br>
 The code will be published once the article has been accepted.
@@ -12,7 +12,7 @@ If this work is helpful to you, please cite it as:
 ```
 
 @article{ADFFusion,
-  title={ADFFusion:A Method for Fusing Infrared and Visible Images Based on Attention-Guided and Dense Feature Interaction},
+  title={ADFFusion:ADFFusion: A Method for Fusing Infrared and Visible Images Focused on Object Saliency and Detail Preservation},
 author={Quanquan Xiao ,etc},
 }
 ```
